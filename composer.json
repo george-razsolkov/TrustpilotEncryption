@@ -1,0 +1,7 @@
+{
+    "name": "george-razsolkov/TrustpilotEncryption",
+    "autoload": {
+        "psr-1" : {
+            "george-razsolkov\\TrustpilotEncryption" : "src"
+        }
+    }
